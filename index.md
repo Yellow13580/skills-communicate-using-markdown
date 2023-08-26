@@ -4,3 +4,6 @@
 
 
 I have learned how to implement headers into a file.
+
+# Below is an Image of Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
